@@ -25,7 +25,7 @@ header {
 
 nav ul {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     list-style: none;
     letter-spacing: 0.1rem;
     padding: 15px; 
