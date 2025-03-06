@@ -82,7 +82,7 @@ nav ul li a:hover i {
     color: #af6a1a; 
 
 }
-                        /* Gömma flikarnas namn */
+                       
 nav ul li a span {
     opacity: 0; 
     margin-left: 10px; 
@@ -99,7 +99,6 @@ nav ul li a:hover span {
     min-height: 80vh;
     width: auto;
     display: flex;
-    position: relative;
     justify-content: center;
     align-items: center;
     text-align: center;
